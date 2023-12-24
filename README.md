@@ -10,10 +10,7 @@
 ### Frontend
     HTML
     CSS
-### Web-server
-    Nginx
-### WSGI-server
-    Gunicorn
+    JS
 ***
 ## Repository content
     
