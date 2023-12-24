@@ -68,9 +68,14 @@ docker build -t название вашего image .
 #### Django admin panel.
 ##### Дефолтный логин=admin; пароль=1234;
     127.0.0.1:8000/admin
+![GitHub Logo](/images/admin.png)
 
 #### GET /buy/{id}/
     127.0.0.1:8000/buy/{id}/
+![GitHub Logo](/images/buy.png)
 
 #### GET /item/{id}/
     127.0.0.1:8000/item/{id}/
+![GitHub Logo](/images/item.png)
+***
+![GitHub Logo](/images/Strip.png)
