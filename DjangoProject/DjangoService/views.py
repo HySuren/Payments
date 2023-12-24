@@ -3,7 +3,7 @@ from typing import Any, Dict
 from django.views import View
 from django.http import JsonResponse
 from django.shortcuts import get_object_or_404, render
-from .models import Item
+from DjangoService.models import Item
 from django.conf import settings
 import stripe
 from rest_framework.views import APIView
